@@ -18,6 +18,7 @@ icubcontrib_set_default_prefix()
 
 add_subdirectory(iCubInterfaceGuiLib)
 add_subdirectory(iCubInterfaceGuiClient)
+add_subdirectory(app)
 
 icubcontrib_add_uninstall_target()
 
